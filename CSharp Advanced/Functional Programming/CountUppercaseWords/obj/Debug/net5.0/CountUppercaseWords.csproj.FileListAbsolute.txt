@@ -1,0 +1,16 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\bin\Debug\net5.0\ref\CountUppercaseWords.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\obj\Debug\net5.0\ref\CountUppercaseWords.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.csproj.AssemblyReference.cache

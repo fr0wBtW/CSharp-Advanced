@@ -1,0 +1,32 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\bin\Debug\net5.0\CarManufacturer.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\bin\Debug\net5.0\CarManufacturer.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\bin\Debug\net5.0\CarManufacturer.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\bin\Debug\net5.0\CarManufacturer.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\bin\Debug\net5.0\CarManufacturer.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\bin\Debug\net5.0\ref\CarManufacturer.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\bin\Debug\net5.0\CarManufacturer.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\obj\Debug\net5.0\CarManufacturer.csproj.AssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\obj\Debug\net5.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\obj\Debug\net5.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\obj\Debug\net5.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\obj\Debug\net5.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\obj\Debug\net5.0\CarManufacturer.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\obj\Debug\net5.0\ref\CarManufacturer.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\obj\Debug\net5.0\CarManufacturer.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CarManufacturer\obj\Debug\net5.0\CarManufacturer.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\bin\Debug\net5.0\CarManufacturer.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\bin\Debug\net5.0\CarManufacturer.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\bin\Debug\net5.0\CarManufacturer.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\bin\Debug\net5.0\CarManufacturer.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\bin\Debug\net5.0\CarManufacturer.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\bin\Debug\net5.0\ref\CarManufacturer.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\bin\Debug\net5.0\CarManufacturer.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\obj\Debug\net5.0\CarManufacturer.csproj.AssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\obj\Debug\net5.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\obj\Debug\net5.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\obj\Debug\net5.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\obj\Debug\net5.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\obj\Debug\net5.0\CarManufacturer.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\obj\Debug\net5.0\ref\CarManufacturer.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\obj\Debug\net5.0\CarManufacturer.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Defining Classes\CarManufacturer\obj\Debug\net5.0\CarManufacturer.genruntimeconfig.cache

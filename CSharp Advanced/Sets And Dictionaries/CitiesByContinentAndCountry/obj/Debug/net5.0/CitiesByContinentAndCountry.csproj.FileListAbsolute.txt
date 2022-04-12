@@ -1,0 +1,15 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\bin\Debug\net5.0\ref\CitiesByContinentAndCountry.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\bin\Debug\net5.0\CitiesByContinentAndCountry.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\obj\Debug\net5.0\ref\CitiesByContinentAndCountry.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CitiesByContinentAndCountry\obj\Debug\net5.0\CitiesByContinentAndCountry.genruntimeconfig.cache

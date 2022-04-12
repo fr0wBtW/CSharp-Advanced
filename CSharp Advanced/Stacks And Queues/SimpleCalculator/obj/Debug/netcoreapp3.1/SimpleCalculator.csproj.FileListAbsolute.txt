@@ -1,0 +1,14 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig

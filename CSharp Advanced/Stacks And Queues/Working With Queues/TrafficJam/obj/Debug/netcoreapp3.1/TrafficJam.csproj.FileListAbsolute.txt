@@ -1,0 +1,14 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\bin\Debug\netcoreapp3.1\TrafficJam.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.csproj.AssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\TrafficJam\obj\Debug\netcoreapp3.1\TrafficJam.GeneratedMSBuildEditorConfig.editorconfig

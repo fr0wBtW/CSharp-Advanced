@@ -1,0 +1,16 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\bin\Debug\net5.0\SumNumbers.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\bin\Debug\net5.0\SumNumbers.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\bin\Debug\net5.0\SumNumbers.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\bin\Debug\net5.0\SumNumbers.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\bin\Debug\net5.0\SumNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\bin\Debug\net5.0\ref\SumNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\bin\Debug\net5.0\SumNumbers.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\obj\Debug\net5.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\obj\Debug\net5.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\obj\Debug\net5.0\SumNumbers.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\obj\Debug\net5.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\obj\Debug\net5.0\SumNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\obj\Debug\net5.0\ref\SumNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\obj\Debug\net5.0\SumNumbers.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\obj\Debug\net5.0\SumNumbers.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumNumbers\obj\Debug\net5.0\SumNumbers.csproj.AssemblyReference.cache

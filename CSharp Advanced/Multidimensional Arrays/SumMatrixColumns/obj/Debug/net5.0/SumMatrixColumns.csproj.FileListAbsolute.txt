@@ -1,0 +1,16 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\bin\Debug\net5.0\ref\SumMatrixColumns.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\bin\Debug\net5.0\SumMatrixColumns.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\obj\Debug\net5.0\ref\SumMatrixColumns.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixColumns\obj\Debug\net5.0\SumMatrixColumns.csproj.AssemblyReference.cache

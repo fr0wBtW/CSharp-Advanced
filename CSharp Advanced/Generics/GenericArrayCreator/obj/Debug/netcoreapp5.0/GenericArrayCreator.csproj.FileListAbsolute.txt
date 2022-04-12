@@ -1,0 +1,15 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\bin\Debug\netcoreapp5.0\GenericArrayCreator.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\bin\Debug\netcoreapp5.0\GenericArrayCreator.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\bin\Debug\netcoreapp5.0\GenericArrayCreator.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\bin\Debug\netcoreapp5.0\GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\bin\Debug\netcoreapp5.0\GenericArrayCreator.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\bin\Debug\netcoreapp5.0\ref\GenericArrayCreator.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\bin\Debug\netcoreapp5.0\GenericArrayCreator.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\obj\Debug\netcoreapp5.0\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\obj\Debug\netcoreapp5.0\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\obj\Debug\netcoreapp5.0\GenericArrayCreator.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\obj\Debug\netcoreapp5.0\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\obj\Debug\netcoreapp5.0\GenericArrayCreator.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\obj\Debug\netcoreapp5.0\ref\GenericArrayCreator.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\obj\Debug\netcoreapp5.0\GenericArrayCreator.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\GenericArrayCreator\obj\Debug\netcoreapp5.0\GenericArrayCreator.genruntimeconfig.cache

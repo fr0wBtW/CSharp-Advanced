@@ -1,0 +1,16 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\bin\Debug\net5.0\ref\SortEvenNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\obj\Debug\net5.0\ref\SortEvenNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\bin\Debug\net5.0\ref\SumMatrixElements.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\bin\Debug\net5.0\SumMatrixElements.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\obj\Debug\net5.0\ref\SumMatrixElements.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\SumMatrixElements\obj\Debug\net5.0\SumMatrixElements.csproj.AssemblyReference.cache

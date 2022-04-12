@@ -1,0 +1,14 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig

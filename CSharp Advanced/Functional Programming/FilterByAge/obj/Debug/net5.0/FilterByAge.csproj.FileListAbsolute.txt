@@ -1,0 +1,15 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\bin\Debug\net5.0\FilterByAge.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\bin\Debug\net5.0\FilterByAge.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\bin\Debug\net5.0\FilterByAge.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\bin\Debug\net5.0\FilterByAge.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\bin\Debug\net5.0\FilterByAge.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\bin\Debug\net5.0\ref\FilterByAge.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\bin\Debug\net5.0\FilterByAge.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\obj\Debug\net5.0\FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\obj\Debug\net5.0\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\obj\Debug\net5.0\FilterByAge.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\obj\Debug\net5.0\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\obj\Debug\net5.0\FilterByAge.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\obj\Debug\net5.0\ref\FilterByAge.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\obj\Debug\net5.0\FilterByAge.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\FilterByAge\obj\Debug\net5.0\FilterByAge.genruntimeconfig.cache

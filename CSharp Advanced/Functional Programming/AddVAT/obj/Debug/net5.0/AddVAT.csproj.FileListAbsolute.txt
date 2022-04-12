@@ -1,0 +1,15 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\bin\Debug\net5.0\AddVAT.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\bin\Debug\net5.0\AddVAT.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\bin\Debug\net5.0\AddVAT.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\bin\Debug\net5.0\AddVAT.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\bin\Debug\net5.0\AddVAT.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\bin\Debug\net5.0\ref\AddVAT.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\bin\Debug\net5.0\AddVAT.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\obj\Debug\net5.0\AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\obj\Debug\net5.0\AddVAT.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\obj\Debug\net5.0\AddVAT.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\obj\Debug\net5.0\AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\obj\Debug\net5.0\AddVAT.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\obj\Debug\net5.0\ref\AddVAT.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\obj\Debug\net5.0\AddVAT.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\AddVAT\obj\Debug\net5.0\AddVAT.genruntimeconfig.cache

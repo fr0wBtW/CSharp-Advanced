@@ -1,0 +1,16 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\bin\Debug\net5.0\ref\CountSameValuesInArray.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\bin\Debug\net5.0\CountSameValuesInArray.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.csproj.AssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\obj\Debug\net5.0\ref\CountSameValuesInArray.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\CountSameValuesInArray\obj\Debug\net5.0\CountSameValuesInArray.genruntimeconfig.cache

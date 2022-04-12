@@ -1,0 +1,15 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\bin\Debug\net5.0\ref\RecordUniqueNames.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\bin\Debug\net5.0\RecordUniqueNames.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\obj\Debug\net5.0\ref\RecordUniqueNames.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\RecordUniqueNames\obj\Debug\net5.0\RecordUniqueNames.genruntimeconfig.cache

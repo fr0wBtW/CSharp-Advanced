@@ -1,0 +1,15 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\bin\Debug\net5.0\ref\PrimaryDiagonal.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\obj\Debug\net5.0\ref\PrimaryDiagonal.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.genruntimeconfig.cache

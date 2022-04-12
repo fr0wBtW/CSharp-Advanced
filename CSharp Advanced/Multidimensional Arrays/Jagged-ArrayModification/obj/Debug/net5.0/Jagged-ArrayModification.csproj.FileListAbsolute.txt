@@ -1,0 +1,16 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\bin\Debug\net5.0\Jagged-ArrayModification.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\bin\Debug\net5.0\Jagged-ArrayModification.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\bin\Debug\net5.0\Jagged-ArrayModification.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\bin\Debug\net5.0\Jagged-ArrayModification.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\bin\Debug\net5.0\Jagged-ArrayModification.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\bin\Debug\net5.0\ref\Jagged-ArrayModification.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\bin\Debug\net5.0\Jagged-ArrayModification.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\obj\Debug\net5.0\Jagged-ArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\obj\Debug\net5.0\Jagged-ArrayModification.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\obj\Debug\net5.0\Jagged-ArrayModification.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\obj\Debug\net5.0\Jagged-ArrayModification.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\obj\Debug\net5.0\Jagged-ArrayModification.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\obj\Debug\net5.0\ref\Jagged-ArrayModification.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\obj\Debug\net5.0\Jagged-ArrayModification.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\obj\Debug\net5.0\Jagged-ArrayModification.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Jagged-ArrayModification\obj\Debug\net5.0\Jagged-ArrayModification.csproj.AssemblyReference.cache

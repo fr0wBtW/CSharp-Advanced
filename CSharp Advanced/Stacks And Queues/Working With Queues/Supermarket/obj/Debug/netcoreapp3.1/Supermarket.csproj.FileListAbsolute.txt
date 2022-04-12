@@ -1,0 +1,14 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.genruntimeconfig.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.csproj.AssemblyReference.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.GeneratedMSBuildEditorConfig.editorconfig

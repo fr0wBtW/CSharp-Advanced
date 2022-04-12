@@ -1,0 +1,15 @@
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\bin\Debug\net5.0\ProductShop.exe
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\bin\Debug\net5.0\ProductShop.deps.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\bin\Debug\net5.0\ProductShop.runtimeconfig.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\bin\Debug\net5.0\ProductShop.runtimeconfig.dev.json
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\bin\Debug\net5.0\ProductShop.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\bin\Debug\net5.0\ref\ProductShop.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\bin\Debug\net5.0\ProductShop.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\obj\Debug\net5.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\obj\Debug\net5.0\ProductShop.AssemblyInfoInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\obj\Debug\net5.0\ProductShop.AssemblyInfo.cs
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\obj\Debug\net5.0\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\obj\Debug\net5.0\ProductShop.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\obj\Debug\net5.0\ref\ProductShop.dll
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\obj\Debug\net5.0\ProductShop.pdb
+C:\Users\Jorka\Desktop\SoftUni\Материали\C# Advanced\CSharp Advanced\ProductShop\obj\Debug\net5.0\ProductShop.genruntimeconfig.cache
